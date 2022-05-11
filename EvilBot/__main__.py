@@ -91,7 +91,7 @@ buttons = [
         ),
      ],
      [  
-        InlineKeyboardButton(text="😈𝐃ᴇᴀʀ 𝐂ᴏᴍʀᴀᴅᴇ😈", url="https://t.me/EVIL_SUPPORT_CHAT"),
+        InlineKeyboardButton(text="😈𝐃ᴇᴀʀ 𝐂ᴏᴍʀᴀᴅᴇ😈", url="https://t.me/tamil_comrades_x"),
         InlineKeyboardButton(text="🥵𝐅ᴜ*ᴋᴇʀ🥵", url="https://t.me/aboutbobby"),
     ], 
 
